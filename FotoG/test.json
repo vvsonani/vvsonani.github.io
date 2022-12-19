@@ -1,8 +1,8 @@
 {
     "admob_ad_show": "yes",
-    "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
-    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native": "ca-app-pub-3940256099942544/1044960115",
+    "admob_app_open": "/206696744,22495921917/HeeWorks/com.gallery.photos.videos.foto_openapp",
+    "admob_banner": "/206696744,22495921917/HeeWorks/com.gallery.photos.videos.foto_banner",
+    "admob_interstitial": "/206696744,22495921917/HeeWorks/com.gallery.photos.videos.foto_interstitial",
+    "admob_native": "/206696744,22495921917/HeeWorks/com.gallery.photos.videos.foto_native",
     "admob_time": 35000
 }
